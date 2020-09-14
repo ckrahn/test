@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dat:push command="UPSERT" createdOn="2020-05-04T07:43:30.974+02:00" identifier="" source="" xmlns:dat="com.priint.pubserver.plugin.entitydata/20131216">
+	<dat:bucket createdBy="exel" entityBucketId="category" identifier="9900003" label="Lightning" sequence="9900003" timestamp="" updatedBy="dev" updatedOn="2019-01-19T09:45:33+01:00" version="">
+		<dat:connectorEntity identifier="category" instance=""/>
+		<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+		<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900003" identifier="9900004" label="H4 12V 55/60W Xtreme Vision " parentBucketId="9900003" sequence="9900004" template="" timestamp="" updatedBy="exel" version="">
+			<dat:connectorEntity identifier="product" instance=""/>
+			<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			<dat:keyValue bucketId="9900004" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="GOC" identifier="9910238" key="GOC" keyLabel="GOC" keySymbol="" refKeyValueId="46C711E2-97A5-4D93-96A9-30E3898A660B" sequence="9910238" template="" updatedBy="datasheet" updatedOn="2019-03-07T16:01:09+01:00" value="&lt;p&gt;9240 362 17100&lt;/p&gt;">
+				<dat:connectorEntity identifier="product_attribute" instance=""/>
+				<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:keyValue>
+			<dat:mediaAsset entityMediaAssetId="product_image" groupIdentifier="0" identifier="9900003" label="H4_ExtremeVision" sequence="9900003" template="">
+				<dat:connectorEntity identifier="product_image" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:mediaObject filename="Lumileds/H4_12V_55-60W_ExtremeVision.jpg" identifier="9900003" groupIdentifier="0" path="C:\Images\dev01" type="Print"/>
+			</dat:mediaAsset>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900005" label="Product Description" parentBucketId="9900004" sequence="9900005" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="10NC" identifier="9910003" key="10NC" keyLabel="10NC" keySymbol="" refKeyValueId="BC817254-EB5F-432E-B20F-051FACE453C3" sequence="9910003" template="" updatedBy="datasheet" updatedOn="2019-04-01T12:02:22+02:00" value="&lt;p&gt;9240 362 17200&lt;/p&gt;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Type Number" identifier="9910004" key="Type Number" keyLabel="Type Number" keySymbol="" sequence="9910004" template="" updatedBy="exel" value="9003">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="ECE" identifier="9910005" key="ECE" keyLabel="ECE" keySymbol="" sequence="9910005" template="" updatedBy="exel" value="yes">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="SAE" identifier="9910006" key="SAE" keyLabel="SAE" keySymbol="" sequence="9910006" template="" updatedBy="exel" value="yes">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="INMETRO" identifier="9910007" key="INMETRO" keyLabel="INMETRO" keySymbol="" refKeyValueId="9C90B6C3-CB06-421F-83B5-E6BD7C571727" sequence="9910007" template="" updatedBy="dev" updatedOn="2019-03-19T16:51:27+01:00" value="&lt;p&gt;aber sicherlich!&lt;/p&gt;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Cap" identifier="9910008" key="Cap" keyLabel="Cap" keySymbol="" sequence="9910008" template="" updatedBy="exel" value="P43t-38">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900005" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Comments" identifier="9910009" key="Comments" keyLabel="Comments" keySymbol="" sequence="9910009" template="" updatedBy="exel" value="Carlamp, 190 sheet &quot;reglemented lamp&quot;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900006" label="Photometry - General / ECE" parentBucketId="9900004" sequence="9900006" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time" identifier="9910010" key="Stable_time" keyLabel="Stable time" keySymbol="" refKeyValueId="9900003" sequence="9910010" template="" updatedBy="exel" value="2">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_SC" identifier="9910011" key="Stable_time_SC" keyLabel="Test voltage HB" keySymbol="" sequence="9910011" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_Tol" identifier="9910012" key="Stable_time_Tol" keyLabel="SC" keySymbol="" sequence="9910012" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_Com" identifier="9910013" key="Stable_time_Com" keyLabel="Tol." keySymbol="" sequence="9910013" template="" updatedBy="exel" value="With test voltage (each filament)">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910014" key="Test_voltage_HB" keyLabel="Test voltage HB" keySymbol="" refKeyValueId="9900004" sequence="9910014" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_SC" identifier="9910015" key="Test_voltage_HB_SC" keyLabel="SC" keySymbol="" sequence="9910015" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910016" key="Test_voltage_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910016" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Com" identifier="9910017" key="Test_voltage_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910017" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910018" key="Test_voltage_LB" keyLabel="Test voltage -LB" keySymbol="" refKeyValueId="9900004" sequence="9910018" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_SC" identifier="9910019" key="Test_voltage_LB_SC" keyLabel="SC" keySymbol="" sequence="9910019" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910020" key="Test_voltage_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910020" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Com" identifier="9910021" key="Test_voltage_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910021" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB" identifier="9910022" key="Power_HB" keyLabel="Power HB" keySymbol="" refKeyValueId="9900005" sequence="9910022" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_SC" identifier="9910023" key="Power_HB_SC" keyLabel="SC" keySymbol="" sequence="9910023" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Tol" identifier="9910024" key="Power_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910024" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Com" identifier="9910025" key="Power_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910025" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB" identifier="9910026" key="Power_LB" keyLabel="Power LB" keySymbol="" refKeyValueId="9900005" sequence="9910026" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_SC" identifier="9910027" key="Power_LB_SC" keyLabel="SC" keySymbol="" sequence="9910027" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Tol" identifier="9910028" key="Power_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910028" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Com" identifier="9910029" key="Power_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910029" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB" identifier="9910030" key="Luminus_Flux_HB" keyLabel="Luminus Flux HB" keySymbol="" refKeyValueId="9900006" sequence="9910030" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_SC" identifier="9910031" key="Luminus_Flux_HB_SC" keyLabel="SC" keySymbol="" sequence="9910031" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_Tol" identifier="9910032" key="Luminus_Flux_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910032" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_Com" identifier="9910033" key="Luminus_Flux_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910033" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB" identifier="9910034" key="Luminus_Flux_LB" keyLabel="Luminus Flux LB" keySymbol="" refKeyValueId="9900006" sequence="9910034" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_SC" identifier="9910035" key="Luminus_Flux_LB_SC" keyLabel="SC" keySymbol="" sequence="9910035" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_Tol" identifier="9910036" key="Luminus_Flux_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910036" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_Com" identifier="9910037" key="Luminus_Flux_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910037" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_general_ECE" identifier="9910038" key="1_Lumen_maintenance_IPR_HB_general_ECE" keyLabel="1. Lumen maintenance HB" keySymbol="" refKeyValueId="9900007" sequence="9910038" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_general_ECE_Com" identifier="9910039" key="1_Lumen_maintenance_IPR_HB_general_ECE_Com" keyLabel="SC" keySymbol="" sequence="9910039" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_general_ECE_SC" identifier="9910040" key="1_Lumen_maintenance_IPR_HB_general_ECE_SC" keyLabel="Tol. " keySymbol="" sequence="9910040" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_general_ECE_Tol" identifier="9910041" key="1_Lumen_maintenance_IPR_HB_general_ECE_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910041" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_general_ECE" identifier="9910042" key="1_Lumen_maintenance_IPR_LB_general_ECE" keyLabel="1. Lumen maintenance LB" keySymbol="" refKeyValueId="9900007" sequence="9910042" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_general_ECE_Com" identifier="9910043" key="1_Lumen_maintenance_IPR_LB_general_ECE_Com" keyLabel="SC" keySymbol="" sequence="9910043" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_general_ECE_SC" identifier="9910044" key="1_Lumen_maintenance_IPR_LB_general_ECE_SC" keyLabel="Tol. " keySymbol="" sequence="9910044" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_general_ECE_Tol" identifier="9910045" key="1_Lumen_maintenance_IPR_LB_general_ECE_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910045" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_general_ECE" identifier="9910046" key="2_Lumen_maintenance_IPR_HB_general_ECE" keyLabel="2. Lumen maintenance HB" keySymbol="" refKeyValueId="9900007" sequence="9910046" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_general_ECE_Com" identifier="9910047" key="2_Lumen_maintenance_IPR_HB_general_ECE_Com" keyLabel="SC" keySymbol="" sequence="9910047" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_general_ECE_SC" identifier="9910048" key="2_Lumen_maintenance_IPR_HB_general_ECE_SC" keyLabel="Tol. " keySymbol="" sequence="9910048" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_general_ECE_Tol" identifier="9910049" key="2_Lumen_maintenance_IPR_HB_general_ECE_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910049" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_general_ECE" identifier="9910050" key="2_Lumen_maintenance_IPR_LB_general_ECE" keyLabel="2. Lumen maintenance LB" keySymbol="" refKeyValueId="9900007" sequence="9910050" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_general_ECE_Com" identifier="9910051" key="2_Lumen_maintenance_IPR_LB_general_ECE_Com" keyLabel="SC" keySymbol="" sequence="9910051" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_general_ECE_SC" identifier="9910052" key="2_Lumen_maintenance_IPR_LB_general_ECE_SC" keyLabel="Tol. " keySymbol="" sequence="9910052" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900006" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_general_ECE_Tol" identifier="9910053" key="2_Lumen_maintenance_IPR_LB_general_ECE_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910053" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900007" label="Additional Product Inormation" parentBucketId="9900004" sequence="9900007" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900007" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Aging_IPR" identifier="9910054" key="Aging_IPR" keyLabel="Aging" keySymbol="" sequence="9910054" template="" updatedBy="exel" value="1h with Test voltage">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900007" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Aging_IPR_SC" identifier="9910055" key="Aging_IPR_SC" keyLabel="SC" keySymbol="" sequence="9910055" template="" updatedBy="exel" value="&amp;lt;s&amp;gt;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900007" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Aging_IPR_Com" identifier="9910056" key="Aging_IPR_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910056" template="" updatedBy="exel" value="No bursts allowed">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900008" label="Photometry - Conditions" parentBucketId="9900004" sequence="9900008" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900008" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Photometry_position_IPR" identifier="9910057" key="Photometry_position_IPR" keyLabel="Photometry position" keySymbol="" sequence="9910057" template="" updatedBy="exel" value="Normal operating position">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900008" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Photometry_position_IPR_SC" identifier="9910058" key="Photometry_position_IPR_SC" keyLabel="SC" keySymbol="" sequence="9910058" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900008" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Photometry_position_IPR_Com" identifier="9910059" key="Photometry_position_IPR_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910059" template="" updatedBy="exel" value="Horizontal; shield in lower position">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900009" label="Photometry - DOT" parentBucketId="9900004" sequence="9900009" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time" identifier="9910060" key="Stable_time" keyLabel="Stable time" keySymbol="" refKeyValueId="9900003" sequence="9910060" template="" updatedBy="exel" value="2">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_SC" identifier="9910061" key="Stable_time_SC" keyLabel="Test voltage HB" keySymbol="" sequence="9910061" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_Tol" identifier="9910062" key="Stable_time_Tol" keyLabel="SC" keySymbol="" sequence="9910062" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Stable_time_Com" identifier="9910063" key="Stable_time_Com" keyLabel="Tol." keySymbol="" sequence="9910063" template="" updatedBy="exel" value="With test voltage (each filament)">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910064" key="Test_voltage_HB" keyLabel="Test voltage HB" keySymbol="" refKeyValueId="9900004" sequence="9910064" template="" updatedBy="exel" value="12,8">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_SC" identifier="9910065" key="Test_voltage_HB_SC" keyLabel="SC" keySymbol="" sequence="9910065" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910066" key="Test_voltage_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910066" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Com" identifier="9910067" key="Test_voltage_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910067" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910068" key="Test_voltage_LB" keyLabel="Test voltage LB" keySymbol="" refKeyValueId="9900004" sequence="9910068" template="" updatedBy="exel" value="12,8">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_SC" identifier="9910069" key="Test_voltage_LB_SC" keyLabel="SC" keySymbol="" sequence="9910069" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910070" key="Test_voltage_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910070" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Com" identifier="9910071" key="Test_voltage_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910071" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB" identifier="9910072" key="Power_HB" keyLabel="Power HB" keySymbol="" refKeyValueId="9900005" sequence="9910072" template="" updatedBy="exel" value="67">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_SC" identifier="9910073" key="Power_HB_SC" keyLabel="SC" keySymbol="" sequence="9910073" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Tol" identifier="9910074" key="Power_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910074" template="" updatedBy="exel" value="±7%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Com" identifier="9910075" key="Power_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910075" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB" identifier="9910076" key="Power_LB" keyLabel="Power LB" keySymbol="" refKeyValueId="9900005" sequence="9910076" template="" updatedBy="exel" value="60,5">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_SC" identifier="9910077" key="Power_LB_SC" keyLabel="SC" keySymbol="" sequence="9910077" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Tol" identifier="9910078" key="Power_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910078" template="" updatedBy="exel" value="±7%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Com" identifier="9910079" key="Power_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910079" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB" identifier="9910080" key="Luminus_Flux_HB" keyLabel="Luminus Flux HB" keySymbol="" refKeyValueId="9900006" sequence="9910080" template="" updatedBy="exel" value="1500">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_SC" identifier="9910081" key="Luminus_Flux_HB_SC" keyLabel="SC" keySymbol="" sequence="9910081" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_Tol" identifier="9910082" key="Luminus_Flux_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910082" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_HB_Com" identifier="9910083" key="Luminus_Flux_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910083" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB" identifier="9910084" key="Luminus_Flux_LB" keyLabel="Luminus Flux LB" keySymbol="" refKeyValueId="9900006" sequence="9910084" template="" updatedBy="exel" value="910">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_SC" identifier="9910085" key="Luminus_Flux_LB_SC" keyLabel="SC" keySymbol="" sequence="9910085" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_Tol" identifier="9910086" key="Luminus_Flux_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910086" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminus_Flux_LB_Com" identifier="9910087" key="Luminus_Flux_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910087" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_DOT" identifier="9910088" key="1_Lumen_maintenance_IPR_HB_DOT" keyLabel="1. Lumen maintenance HB" keySymbol="" refKeyValueId="9900007" sequence="9910088" template="" updatedBy="exel" value="90">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_DOT_Com" identifier="9910089" key="1_Lumen_maintenance_IPR_HB_DOT_Com" keyLabel="SC" keySymbol="" sequence="9910089" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_DOT_SC" identifier="9910090" key="1_Lumen_maintenance_IPR_HB_DOT_SC" keyLabel="Tol. " keySymbol="" sequence="9910090" template="" updatedBy="exel" value="Min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_HB_DOT_Tol" identifier="9910091" key="1_Lumen_maintenance_IPR_HB_DOT_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910091" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_DOT" identifier="9910092" key="1_Lumen_maintenance_IPR_LB_DOT" keyLabel="1. Lumen maintenance LB" keySymbol="" refKeyValueId="9900007" sequence="9910092" template="" updatedBy="exel" value="90">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_DOT_Com" identifier="9910093" key="1_Lumen_maintenance_IPR_LB_DOT_Com" keyLabel="SC" keySymbol="" sequence="9910093" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_DOT_SC" identifier="9910094" key="1_Lumen_maintenance_IPR_LB_DOT_SC" keyLabel="Tol. " keySymbol="" sequence="9910094" template="" updatedBy="exel" value="Min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="1_Lumen_maintenance_IPR_LB_DOT_Tol" identifier="9910095" key="1_Lumen_maintenance_IPR_LB_DOT_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910095" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_DOT" identifier="9910096" key="2_Lumen_maintenance_IPR_HB_DOT" keyLabel="2. Lumen maintenance HB" keySymbol="" refKeyValueId="9900007" sequence="9910096" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_DOT_Com" identifier="9910097" key="2_Lumen_maintenance_IPR_HB_DOT_Com" keyLabel="SC" keySymbol="" sequence="9910097" template="" updatedBy="exel" value="At 113h">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_DOT_SC" identifier="9910098" key="2_Lumen_maintenance_IPR_HB_DOT_SC" keyLabel="Tol. " keySymbol="" sequence="9910098" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_HB_DOT_Tol" identifier="9910099" key="2_Lumen_maintenance_IPR_HB_DOT_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910099" template="" updatedBy="exel" value="At 113h">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_DOT" identifier="9910100" key="2_Lumen_maintenance_IPR_LB_DOT" keyLabel="2. Lumen maintenance LB" keySymbol="" refKeyValueId="9900007" sequence="9910100" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_DOT_Com" identifier="9910101" key="2_Lumen_maintenance_IPR_LB_DOT_Com" keyLabel="SC" keySymbol="" sequence="9910101" template="" updatedBy="exel" value="At 240h">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_DOT_SC" identifier="9910102" key="2_Lumen_maintenance_IPR_LB_DOT_SC" keyLabel="Tol. " keySymbol="" sequence="9910102" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900009" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="2_Lumen_maintenance_IPR_LB_DOT_Tol" identifier="9910103" key="2_Lumen_maintenance_IPR_LB_DOT_Tol" keyLabel="Comment / Instruction" keySymbol="" sequence="9910103" template="" updatedBy="exel" value="At 240h">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900010" label="Lifetime Conditions" parentBucketId="9900004" sequence="9900010" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900010" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lifetime_IPR" identifier="9910104" key="Lifetime_IPR" keyLabel="Lifetime position" keySymbol="" sequence="9910104" template="" updatedBy="exel" value="Measuring position: normal operating position">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900010" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lifetime_IPR_SC" identifier="9910105" key="Lifetime_IPR_SC" keyLabel="SC" keySymbol="" sequence="9910105" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900010" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lifetime_IPR_Com" identifier="9910106" key="Lifetime_IPR_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910106" template="" updatedBy="exel" value="Horizontal; coil in lower position; 14 V in headlight">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900011" label="Lifetime - General / ECE" parentBucketId="9900004" sequence="9900011" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910107" key="Test_voltage_HB" keyLabel="Test voltage HB" keySymbol="" refKeyValueId="9900004" sequence="9910107" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_SC" identifier="9910108" key="Test_voltage_HB_SC" keyLabel="SC" keySymbol="" sequence="9910108" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910109" key="Test_voltage_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910109" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Com" identifier="9910110" key="Test_voltage_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910110" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910111" key="Test_voltage_LB" keyLabel="Test voltage LB" keySymbol="" refKeyValueId="9900004" sequence="9910111" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_SC" identifier="9910112" key="Test_voltage_LB_SC" keyLabel="SC" keySymbol="" sequence="9910112" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910113" key="Test_voltage_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910113" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Com" identifier="9910114" key="Test_voltage_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910114" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_B3_IPR_general_ECE" identifier="9910115" key="Life_cycle_1_2_A_B3_IPR_general_ECE" keyLabel="Life Cycle - 1:2 (A) - B3" keySymbol="" refKeyValueId="9900008" sequence="9910115" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_B3_IPR_general_ECE_Com" identifier="9910116" key="Life_cycle_1_2_A_B3_IPR_general_ECE_Com" keyLabel="" keySymbol="" sequence="9910116" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_B3_IPR_general_ECE_SC" identifier="9910117" key="Life_cycle_1_2_A_B3_IPR_general_ECE_SC" keyLabel="" keySymbol="" sequence="9910117" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_B3_IPR_general_ECE_Tol" identifier="9910118" key="Life_cycle_1_2_A_B3_IPR_general_ECE_Tol" keyLabel="" keySymbol="" sequence="9910118" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_TC_IPR_general_ECE" identifier="9910119" key="Life_cycle_1_2_A_TC_IPR_general_ECE" keyLabel="Life Cycle - 1:2 (A) - Tc" keySymbol="" refKeyValueId="9900008" sequence="9910119" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_TC_IPR_general_ECE_Com" identifier="9910120" key="Life_cycle_1_2_A_TC_IPR_general_ECE_Com" keyLabel="" keySymbol="" sequence="9910120" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_TC_IPR_general_ECE_SC" identifier="9910121" key="Life_cycle_1_2_A_TC_IPR_general_ECE_SC" keyLabel="" keySymbol="" sequence="9910121" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_2_A_TC_IPR_general_ECE_Tol" identifier="9910122" key="Life_cycle_1_2_A_TC_IPR_general_ECE_Tol" keyLabel="" keySymbol="" sequence="9910122" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_B3_IPR_general_ECE" identifier="9910123" key="Life_cycle_1_8_B_B3_IPR_general_ECE" keyLabel="Life Cycle - 1:8 (B) - B3" keySymbol="" refKeyValueId="9900008" sequence="9910123" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_B3_IPR_general_ECE_Com" identifier="9910124" key="Life_cycle_1_8_B_B3_IPR_general_ECE_Com" keyLabel="" keySymbol="" sequence="9910124" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_B3_IPR_general_ECE_SC" identifier="9910125" key="Life_cycle_1_8_B_B3_IPR_general_ECE_SC" keyLabel="" keySymbol="" sequence="9910125" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_B3_IPR_general_ECE_Tol" identifier="9910126" key="Life_cycle_1_8_B_B3_IPR_general_ECE_Tol" keyLabel="" keySymbol="" sequence="9910126" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_TC_IPR_general_ECE" identifier="9910127" key="Life_cycle_1_8_B_TC_IPR_general_ECE" keyLabel="Life Cylce - 1:8 (B) - Tc" keySymbol="" refKeyValueId="9900008" sequence="9910127" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_TC_IPR_general_ECE_Com" identifier="9910128" key="Life_cycle_1_8_B_TC_IPR_general_ECE_Com" keyLabel="" keySymbol="" sequence="9910128" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_TC_IPR_general_ECE_SC" identifier="9910129" key="Life_cycle_1_8_B_TC_IPR_general_ECE_SC" keyLabel="" keySymbol="" sequence="9910129" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900011" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_1_8_B_TC_IPR_general_ECE_Tol" identifier="9910130" key="Life_cycle_1_8_B_TC_IPR_general_ECE_Tol" keyLabel="" keySymbol="" sequence="9910130" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900004" identifier="9900012" label="Lifetime - DOT" parentBucketId="9900004" sequence="9900012" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910131" key="Test_voltage_HB" keyLabel="Test voltage HB" keySymbol="" refKeyValueId="9900004" sequence="9910131" template="" updatedBy="exel" value="14">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_SC" identifier="9910132" key="Test_voltage_HB_SC" keyLabel="SC" keySymbol="" sequence="9910132" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910133" key="Test_voltage_HB_Tol" keyLabel="Tol." keySymbol="" sequence="9910133" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Com" identifier="9910134" key="Test_voltage_HB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910134" template="" updatedBy="exel" value="DC-Voltage">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910135" key="Test_voltage_LB" keyLabel="Test voltage LB" keySymbol="" refKeyValueId="9900004" sequence="9910135" template="" updatedBy="exel" value="14">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_SC" identifier="9910136" key="Test_voltage_LB_SC" keyLabel="SC" keySymbol="" sequence="9910136" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910137" key="Test_voltage_LB_Tol" keyLabel="Tol." keySymbol="" sequence="9910137" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Com" identifier="9910138" key="Test_voltage_LB_Com" keyLabel="Comment / Instruction" keySymbol="" sequence="9910138" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT" identifier="9910139" key="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT" keyLabel="Life cycle - Cont. Burning (C) - B10 - HB" keySymbol="" refKeyValueId="9900008" sequence="9910139" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_Com" identifier="9910140" key="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_Com" keyLabel="" keySymbol="" sequence="9910140" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_SC" identifier="9910141" key="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_SC" keyLabel="" keySymbol="" sequence="9910141" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_Tol" identifier="9910142" key="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT_Tol" keyLabel="" keySymbol="" sequence="9910142" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT" identifier="9910143" key="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT" keyLabel="Life cycle - Cont. Burning (C) - B10 - HB" keySymbol="" refKeyValueId="9900008" sequence="9910143" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_Com" identifier="9910144" key="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_Com" keyLabel="" keySymbol="" sequence="9910144" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_SC" identifier="9910145" key="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_SC" keyLabel="" keySymbol="" sequence="9910145" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_Tol" identifier="9910146" key="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT_Tol" keyLabel="" keySymbol="" sequence="9910146" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT" identifier="9910147" key="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT" keyLabel="Life cycle - Cont. Burning (C) - B50 - HB" keySymbol="" refKeyValueId="9900008" sequence="9910147" template="" updatedBy="exel" value="150">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_Com" identifier="9910148" key="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_Com" keyLabel="" keySymbol="" sequence="9910148" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_SC" identifier="9910149" key="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_SC" keyLabel="" keySymbol="" sequence="9910149" template="" updatedBy="exel" value="">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_Tol" identifier="9910150" key="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT_Tol" keyLabel="" keySymbol="" sequence="9910150" template="" updatedBy="exel" value="Min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900012" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Life_cycle_Cont_Burning_C_B50_IPR_LB_DOT" identifier="9910151" key="Life_cycle_Cont_Burning_C_B50_IPR_LB_DOT" keyLabel="Life cycle - Cont. Burning (C) - B50 - LB" keySymbol="" refKeyValueId="9900008" sequence="9910151" template="" updatedBy="exel" value="320">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+		</dat:subBucket>
+		<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900003" identifier="9900013" label="H4 12V 60/55W Extra Life" parentBucketId="9900003" sequence="9900013" template="" timestamp="" updatedBy="exel" version="">
+			<dat:connectorEntity identifier="product" instance=""/>
+			<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			<dat:keyValue bucketId="9900013" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Commercial_Code_SAP" identifier="9910171" key="Commercial_Code_SAP" keyLabel="GOC" keySymbol="" sequence="9910171" template="" updatedBy="exel" value="3742960">
+				<dat:connectorEntity identifier="product_attribute" instance=""/>
+				<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:keyValue>
+			<dat:keyValue bucketId="9900013" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Order_Entry_Code_SAP" identifier="9910172" key="Order_Entry_Code_SAP" keyLabel="Ordering entry code" keySymbol="" sequence="9910172" template="" updatedBy="exel" value="12342C2">
+				<dat:connectorEntity identifier="product_attribute" instance=""/>
+				<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:keyValue>
+			<dat:keyValue bucketId="9900013" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Packaging_Type_SAP" identifier="9910173" key="Packaging_Type_SAP" keyLabel="Packaging type" keySymbol="" sequence="9910173" template="" updatedBy="exel" value="C2">
+				<dat:connectorEntity identifier="product_attribute" instance=""/>
+				<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:keyValue>
+			<dat:keyValue bucketId="9900013" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="GOC" identifier="9910239" key="GOC" keyLabel="GOC" keySymbol="" sequence="9910239" template="" updatedBy="exel" value="9236 357 18700">
+				<dat:connectorEntity identifier="product_attribute" instance=""/>
+				<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:keyValue>
+			<dat:mediaAsset entityMediaAssetId="product_technical_drawing" groupIdentifier="0" identifier="9900005" label="H4_ExtraLife_Dimensions" sequence="9900005" template="">
+				<dat:connectorEntity identifier="product_technical_drawing" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:mediaObject filename="Lumileds/H4_12V_60-55W_ExtraLife_Dimensions.jpg" identifier="9900005" groupIdentifier="0" path="C:\Images\dev01" type="Print"/>
+			</dat:mediaAsset>
+			<dat:mediaAsset entityMediaAssetId="product_image" groupIdentifier="0" identifier="9900004" label="H4_ExtraLife" sequence="9900004" template="">
+				<dat:connectorEntity identifier="product_image" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:mediaObject filename="Lumileds/H4_12V_60-55W_ExtraLife.jpg" identifier="9900004" groupIdentifier="0" path="C:\Images\dev01" type="Print"/>
+			</dat:mediaAsset>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900014" label="Logistic Data" parentBucketId="9900013" sequence="9900014" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="MOQ_per_sales_unit_SAP" identifier="9910174" key="MOQ_per_sales_unit_SAP" keyLabel="Min. order qty." keySymbol="" refKeyValueId="B30BDCBA-F1F9-444D-8D8B-7E1CE921C46F" sequence="9910174" template="" updatedBy="dev" updatedOn="2019-03-05T07:06:15+01:00" value="&lt;p&gt;2&lt;/p&gt;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="EAN_1_SAP" identifier="9910175" key="EAN_1_SAP" keyLabel="EAN 1" keySymbol="" sequence="9910175" template="" updatedBy="exel" value="8727900374292">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Quantity_EAN_1_SAP" identifier="9910176" key="Quantity_EAN_1_SAP" keyLabel="Pack quantity" keySymbol="" sequence="9910176" template="" updatedBy="exel" value="2">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Length_EAN_1_SAP" identifier="9910177" key="Length_EAN_1_SAP" keyLabel="Length" keySymbol="" refKeyValueId="9900010" sequence="9910177" template="" updatedBy="exel" value="9,1">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Width_EAN_1_SAP" identifier="9910178" key="Width_EAN_1_SAP" keyLabel="Width" keySymbol="" refKeyValueId="9900010" sequence="9910178" template="" updatedBy="exel" value="4,55">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Height_EAN_1_SAP" identifier="9910179" key="Height_EAN_1_SAP" keyLabel="Height" keySymbol="" refKeyValueId="9900010" sequence="9910179" template="" updatedBy="exel" value="7,6">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Gross_Weight_EAN_1_SAP" identifier="9910180" key="Gross_Weight_EAN_1_SAP" keyLabel="Gross weight" keySymbol="" refKeyValueId="9900009" sequence="9910180" template="" updatedBy="exel" value="46,3">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="EAN_2_SAP" identifier="9910181" key="EAN_2_SAP" keyLabel="EAN 2" keySymbol="" sequence="9910181" template="" updatedBy="exel" value="8727900374321">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Quantity_per_salesunit_EAN_2_SAP" identifier="9910182" key="Quantity_per_salesunit_EAN_2_SAP" keyLabel="Pack quantity" keySymbol="" sequence="9910182" template="" updatedBy="exel" value="10">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Length_EAN_2_SAP" identifier="9910183" key="Length_EAN_2_SAP" keyLabel="Length" keySymbol="" refKeyValueId="9900010" sequence="9910183" template="" updatedBy="exel" value="9,1">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Width_EAN_2_SAP" identifier="9910184" key="Width_EAN_2_SAP" keyLabel="Width" keySymbol="" refKeyValueId="9900010" sequence="9910184" template="" updatedBy="exel" value="45,5">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Height_EAN_2_SAP" identifier="9910185" key="Height_EAN_2_SAP" keyLabel="Height" keySymbol="" refKeyValueId="9900010" sequence="9910185" template="" updatedBy="exel" value="7,6">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Gross_Weight_EAN_2_SAP" identifier="9910186" key="Gross_Weight_EAN_2_SAP" keyLabel="Gross weight" keySymbol="" refKeyValueId="9900009" sequence="9910186" template="" updatedBy="exel" value="463">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="EAN_3_SAP" identifier="9910187" key="EAN_3_SAP" keyLabel="EAN 3" keySymbol="" sequence="9910187" template="" updatedBy="exel" value="8727900374315">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Quantity_per_salesunit_EAN_3_SAP" identifier="9910188" key="Quantity_per_salesunit_EAN_3_SAP" keyLabel="Pack quantity" keySymbol="" sequence="9910188" template="" updatedBy="exel" value="8727900374315">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Length_EAN_3_SAP" identifier="9910189" key="Length_EAN_3_SAP" keyLabel="Length" keySymbol="" refKeyValueId="9900010" sequence="9910189" template="" updatedBy="exel" value="9,1">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Width_EAN_3_SAP" identifier="9910190" key="Width_EAN_3_SAP" keyLabel="Width" keySymbol="" refKeyValueId="9900010" sequence="9910190" template="" updatedBy="exel" value="45,5">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Height_EAN_3_SAP" identifier="9910191" key="Height_EAN_3_SAP" keyLabel="Height" keySymbol="" refKeyValueId="9900010" sequence="9910191" template="" updatedBy="exel" value="76">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Gross_Weight_EAN_3_SAP" identifier="9910192" key="Gross_Weight_EAN_3_SAP" keyLabel="Gross weight" keySymbol="" refKeyValueId="9900012" sequence="9910192" template="" updatedBy="exel" value="4,63">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="EAN_4_SAP" identifier="9910193" key="EAN_4_SAP" keyLabel="EAN 4" keySymbol="" sequence="9910193" template="" updatedBy="exel" value="8727900374567">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Quantity_per_salesunit_EAN_4_SAP" identifier="9910194" key="Quantity_per_salesunit_EAN_4_SAP" keyLabel="Pack quantity" keySymbol="" sequence="9910194" template="" updatedBy="exel" value="2500">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Length_EAN_4_SAP" identifier="9910195" key="Length_EAN_4_SAP" keyLabel="Length" keySymbol="" refKeyValueId="9900010" sequence="9910195" template="" updatedBy="exel" value="91">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Width_EAN_4_SAP" identifier="9910196" key="Width_EAN_4_SAP" keyLabel="Width" keySymbol="" refKeyValueId="9900010" sequence="9910196" template="" updatedBy="exel" value="91">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Height_EAN_4_SAP" identifier="9910197" key="Height_EAN_4_SAP" keyLabel="Height" keySymbol="" refKeyValueId="9900010" sequence="9910197" template="" updatedBy="exel" value="190">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900014" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Volume_EAN_4_SAP" identifier="9910198" key="Volume_EAN_4_SAP" keyLabel="Gross weight" keySymbol="" refKeyValueId="9900012" sequence="9910198" template="" updatedBy="exel" value="115,75">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900015" label="Product Description" parentBucketId="9900013" sequence="9900015" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900016" label="Electrical Characteristics - General / ECE" parentBucketId="9900013" sequence="9900016" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910199" key="Test_voltage_HB" keyLabel="Test voltage - HB" keySymbol="" refKeyValueId="9900004" sequence="9910199" template="" updatedBy="datasheet" updatedOn="2019-03-03T08:08:05+01:00" value="&lt;p&gt;11,8&lt;/p&gt;">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910200" key="Test_voltage_HB_Tol" keyLabel="" keySymbol="" sequence="9910200" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910201" key="Test_voltage_LB" keyLabel="Test voltage - LB" keySymbol="" refKeyValueId="9900004" sequence="9910201" template="" updatedBy="exel" value="12,8">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910202" key="Test_voltage_LB_Tol" keyLabel="" keySymbol="" sequence="9910202" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB" identifier="9910207" key="Power_HB" keyLabel="Power - HB" keySymbol="" refKeyValueId="9900005" sequence="9910207" template="" updatedBy="exel" value="72">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Tol" identifier="9910208" key="Power_HB_Tol" keyLabel="" keySymbol="" sequence="9910208" template="" updatedBy="exel" value="max.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB" identifier="9910209" key="Power_LB" keyLabel="Power - LB" keySymbol="" refKeyValueId="9900005" sequence="9910209" template="" updatedBy="exel" value="65">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900016" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Tol" identifier="9910210" key="Power_LB_Tol" keyLabel="" keySymbol="" sequence="9910210" template="" updatedBy="exel" value="max.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900017" label="Electrical Characteristics - DOT" parentBucketId="9900013" sequence="9900017" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB" identifier="9910203" key="Test_voltage_HB" keyLabel="Test voltage - HB" keySymbol="" refKeyValueId="9900004" sequence="9910203" template="" updatedBy="exel" value="13,2">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_HB_Tol" identifier="9910204" key="Test_voltage_HB_Tol" keyLabel="" keySymbol="" sequence="9910204" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB" identifier="9910205" key="Test_voltage_LB" keyLabel="Test voltage - LB" keySymbol="" refKeyValueId="9900004" sequence="9910205" template="" updatedBy="exel" value="13,2">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Test_voltage_LB_Tol" identifier="9910206" key="Test_voltage_LB_Tol" keyLabel="" keySymbol="" sequence="9910206" template="" updatedBy="exel" value="-">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB" identifier="9910211" key="Power_HB" keyLabel="Power - HB" keySymbol="" refKeyValueId="9900005" sequence="9910211" template="" updatedBy="exel" value="60">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_HB_Tol" identifier="9910212" key="Power_HB_Tol" keyLabel="" keySymbol="" sequence="9910212" template="" updatedBy="exel" value="max.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB" identifier="9910213" key="Power_LB" keyLabel="Power - LB" keySymbol="" refKeyValueId="9900005" sequence="9910213" template="" updatedBy="exel" value="50">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900017" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Power_LB_Tol" identifier="9910214" key="Power_LB_Tol" keyLabel="" keySymbol="" sequence="9910214" template="" updatedBy="exel" value="max.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900018" label="Photometry - General / ECE" parentBucketId="9900013" sequence="9900018" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_HB" identifier="9910215" key="Luminous_Flux_HB" keyLabel="Luminous flux - HB" keySymbol="" refKeyValueId="9900006" sequence="9910215" template="" updatedBy="exel" value="1500">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_HB_Tol" identifier="9910216" key="Luminous_Flux_HB_Tol" keyLabel="" keySymbol="" sequence="9910216" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_LB" identifier="9910217" key="Luminous_Flux_LB" keyLabel="Luminous flux - LB" keySymbol="" refKeyValueId="9900006" sequence="9910217" template="" updatedBy="exel" value="910">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_LB_Tol" identifier="9910218" key="Luminous_Flux_LB_Tol" keyLabel="" keySymbol="" sequence="9910218" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_HB" identifier="9910219" key="Lumen_Maintenance_HB" keyLabel="Lumen maintenance - HB" keySymbol="" refKeyValueId="9900007" sequence="9910219" template="" updatedBy="exel" value="90">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_HB_Tol" identifier="9910220" key="Lumen_Maintenance_HB_Tol" keyLabel="" keySymbol="" sequence="9910220" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_LB" identifier="9910221" key="Lumen_Maintenance_LB" keyLabel="Lumen maintenance - LB" keySymbol="" refKeyValueId="9900007" sequence="9910221" template="" updatedBy="exel" value="90">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900018" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_LB_Tol" identifier="9910222" key="Lumen_Maintenance_LB_Tol" keyLabel="" keySymbol="" sequence="9910222" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900019" label="Photometry - DOT" parentBucketId="9900013" sequence="9900019" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_HB" identifier="9910223" key="Luminous_Flux_HB" keyLabel="Luminous flux - HB" keySymbol="" refKeyValueId="9900006" sequence="9910223" template="" updatedBy="exel" value="1400">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_HB_Tol" identifier="9910224" key="Luminous_Flux_HB_Tol" keyLabel="" keySymbol="" sequence="9910224" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_LB" identifier="9910225" key="Luminous_Flux_LB" keyLabel="Luminous flux - LB" keySymbol="" refKeyValueId="9900006" sequence="9910225" template="" updatedBy="exel" value="810">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Luminous_Flux_LB_Tol" identifier="9910226" key="Luminous_Flux_LB_Tol" keyLabel="" keySymbol="" sequence="9910226" template="" updatedBy="exel" value="±10%">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_HB" identifier="9910227" key="Lumen_Maintenance_HB" keyLabel="Lumen maintenance - HB" keySymbol="" refKeyValueId="9900007" sequence="9910227" template="" updatedBy="exel" value="85">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_HB_Tol" identifier="9910228" key="Lumen_Maintenance_HB_Tol" keyLabel="" keySymbol="" sequence="9910228" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_LB" identifier="9910229" key="Lumen_Maintenance_LB" keyLabel="Lumen maintenance - LB" keySymbol="" refKeyValueId="9900007" sequence="9910229" template="" updatedBy="exel" value="85">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900019" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Lumen_Maintenance_LB_Tol" identifier="9910230" key="Lumen_Maintenance_LB_Tol" keyLabel="" keySymbol="" sequence="9910230" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900020" label="Lifetime - General / ECE" parentBucketId="9900013" sequence="9900020" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900020" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_B3_HB" identifier="9910231" key="Rated_Lifetime_B3_HB" keyLabel="Rated Lifetime - B3 - HB" keySymbol="" refKeyValueId="9900008" sequence="9910231" template="" updatedBy="exel" value="700">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900020" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_B3_HB_Tol" identifier="9910232" key="Rated_Lifetime_B3_HB_Tol" keyLabel="" keySymbol="" sequence="9910232" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900020" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_Tc_HB" identifier="9910233" key="Rated_Lifetime_Tc_HB" keyLabel="Rated Lifetime - Tc - HB" keySymbol="" refKeyValueId="9900008" sequence="9910233" template="" updatedBy="exel" value="1400">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900020" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_Tc_HB_Tol" identifier="9910234" key="Rated_Lifetime_Tc_HB_Tol" keyLabel="" keySymbol="" sequence="9910234" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900021" label="Lieftime - DOT" parentBucketId="9900013" sequence="9900021" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900021" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_B10_HB" identifier="9910235" key="Rated_Lifetime_B10_HB" keyLabel="Rated Lifetime - B10 HB" keySymbol="" refKeyValueId="9900008" sequence="9910235" template="" updatedBy="exel" value="600">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+				<dat:keyValue bucketId="9900021" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Rated_Lifetime_B10_HB_Tol" identifier="9910236" key="Rated_Lifetime_B10_HB_Tol" keyLabel="" keySymbol="" sequence="9910236" template="" updatedBy="exel" value="min.">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+			<dat:subBucket createdBy="exel" entityBucketId="product" groupIdentifier="9900013" identifier="9900022" label="Application / Usage / Operation recommendations" parentBucketId="9900013" sequence="9900022" template="" timestamp="" updatedBy="exel" version="">
+				<dat:connectorEntity identifier="product" instance=""/>
+				<dat:context assortmentName="" country="" identifier="1" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				<dat:keyValue bucketId="9900022" createdBy="exel" dataType="String" entityKeyValueId="product_attribute" groupIdentifier="Operating_Position" identifier="9910237" key="Operating_Position" keyLabel="Operating position" keySymbol="" sequence="9910237" template="" updatedBy="exel" value="horizontal">
+					<dat:connectorEntity identifier="product_attribute" instance=""/>
+					<dat:context assortmentName="" country="" identifier="eng------" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+				</dat:keyValue>
+			</dat:subBucket>
+		</dat:subBucket>
+	</dat:bucket>
+	<dat:keyValue createdBy="datasheet" createdOn="2019-03-07T15:35:58+01:00" dataType="" groupIdentifier="" identifier="46C711E2-97A5-4D93-96A9-30E3898A660B" key="unit" keyLabel="" keySymbol="" origin="" sequence="0" source="" template="" timestamp="" updatedBy="datasheet" updatedOn="2019-03-07T16:01:09+01:00" value="" version="">
+		<dat:context assortmentName="" country="" identifier="------" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="datasheet" createdOn="2019-03-05T08:07:16+01:00" dataType="" groupIdentifier="" identifier="9C90B6C3-CB06-421F-83B5-E6BD7C571727" key="unit" keyLabel="" keySymbol="" origin="" sequence="0" source="" template="" timestamp="" updatedBy="dev" updatedOn="2019-03-19T16:51:27+01:00" value="" version="">
+		<dat:context assortmentName="" country="" identifier="------" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="datasheet" createdOn="2019-03-03T07:28:42+01:00" dataType="" groupIdentifier="" identifier="B30BDCBA-F1F9-444D-8D8B-7E1CE921C46F" key="unit" keyLabel="" keySymbol="" origin="" sequence="0" source="" template="" timestamp="" updatedBy="dev" updatedOn="2019-03-05T07:06:15+01:00" value="" version="">
+		<dat:context assortmentName="" country="" identifier="------" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900010" key="cm" keyLabel="centimeter" keySymbol="" sequence="9900010" updatedBy="exel" value="cm">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900003" key="min" keyLabel="Minutes" keySymbol="" sequence="9900003" updatedBy="exel" value="Min">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900012" key="kg" keyLabel="kilogram" keySymbol="" sequence="9900012" updatedBy="exel" value="kg">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900006" key="lm" keyLabel="Lumen" keySymbol="" sequence="9900006" updatedBy="exel" value="lm">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900007" key="percent" keyLabel="Percent" keySymbol="" sequence="9900007" updatedBy="exel" value="%">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900004" key="v" keyLabel="Volt" keySymbol="" sequence="9900004" updatedBy="datasheet" updatedOn="2019-03-03T08:08:05+01:00" value="V">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900005" key="w" keyLabel="Watt" keySymbol="" sequence="9900005" updatedBy="exel" value="W">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900008" key="h" keyLabel="Hours" keySymbol="" sequence="9900008" updatedBy="exel" value="h">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="datasheet" createdOn="2019-04-01T12:02:22+02:00" dataType="" groupIdentifier="" identifier="BC817254-EB5F-432E-B20F-051FACE453C3" key="unit" keyLabel="" keySymbol="" origin="" sequence="0" source="" template="" timestamp="" updatedBy="datasheet" updatedOn="2019-04-01T12:02:22+02:00" value="" version="">
+		<dat:context assortmentName="" country="" identifier="------" language="" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+	<dat:keyValue createdBy="null" dataType="String" entityKeyValueId="unit" identifier="9900009" key="g" keyLabel="gram" keySymbol="" sequence="9900009" updatedBy="exel" value="g">
+		<dat:context assortmentName="" country="" identifier="6" language="eng" script="" wellName="" publication="" documentId="" targetGroup="" marketName="" createdBy="" updatedBy=""/>
+	</dat:keyValue>
+</dat:push>
