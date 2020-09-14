@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data base="https://test.priint.local/resources" lang="en">
+	<display type="table" id="table0001">
+		<col key="Par" label="PARAMETER" value="@label" width="30%" />
+		<col key="SC" label="SC" width="10%" />
+		<col key="Val" label="VALUE" width="10%" />
+		<col key="Unit" label="UNIT" width="10%" />
+		<col key="Tol" label="TOL" width="10%" />
+		<col key="Com" label="COMMENT / INSTRUCTION" width="30%" />
+	</display>
+	<item id="9900010" key="cm" label="centimeter" value="cm" />
+	<item id="9900003" key="min" label="Minutes" value="Min" />
+	<item id="9900012" key="kg" label="kilogram" value="kg" />
+	<item id="9900006" key="lm" label="Lumen" value="lm" />
+	<item id="9900007" key="percent" label="Percent" value="%" />
+	<item id="9900004" key="v" label="Volt" value="V" />
+	<item id="9900005" key="w" label="Watt" value="W" />
+	<item id="9900008" key="h" label="Hours" value="h" />
+	<item id="9900009" key="g" label="gram" value="g" />
+	<item type="product" id="9900004" label="H4 12V 55/60W Xtreme Vision " display="datasheet">
+		<item key="GOC" label="GOC" value="&lt;p&gt;9240 362 17100&lt;/p&gt;" valueType="html" />
+		<item type="article_image" label="H4_ExtremeVision">
+			<item type="Print" url="Lumileds/H4_12V_55-60W_ExtremeVision.jpg" />
+		</item>
+		<item label="Product Description" >
+			<display type="table">
+				<col label="CHARACTERISTICS" value="@key" align="left" width="40%" />
+				<col label="VALUE" value="@value" align="right" />
+			</display>
+			<item key="10NC" label="10NC" value="&lt;p&gt;9240 362 17200&lt;/p&gt;" />
+			<item key="Type Number" label="Type Number" value="9003" />
+			<item key="ECE" label="ECE" value="yes" />
+			<item key="SAE" label="SAE" value="yes" />
+			<item key="INMETRO" label="INMETRO" value="&lt;p&gt;aber sicherlich!&lt;/p&gt;" />
+			<item key="Cap" label="Cap" value="P43t-38" />
+			<item key="Comments" label="Comments" value="Carlamp, 190 sheet &quot;reglemented lamp&quot;" />
+		</item>
+		<item label="Photometry - General / ECE" display="table0001">
+			<item key="Stable_time" label="Stable time" value="2">
+				<item key="Val" value="2" />
+				<link idref="9900003" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Com" label="Comment / Instruction" value="With test voltage (each filament)" />
+			</item>
+			<item key="Test_voltage_HB" label="Test voltage HB" value="-">
+				<item key="Val" label="Test voltage HB" value="-" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage -LB" value="-">
+				<item key="Val" label="Test voltage -LB" value="-" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Power_HB" label="Power HB" value="-">
+				<item key="Val" label="Power HB" value="-" />
+				<link idref="9900005" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Power_LB" label="Power LB" value="-">
+				<item key="Val" label="Power LB" value="-" />
+				<link idref="9900005" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Luminus_Flux_HB" label="Luminus Flux HB" value="-">
+				<item key="Val" label="Luminus Flux HB" value="-" />
+				<link idref="9900006" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Luminus_Flux_LB" label="Luminus Flux LB" value="-">
+				<item key="Val" label="Luminus Flux LB" value="-" />
+				<link idref="9900006" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="1_Lumen_maintenance_IPR_HB_general_ECE" label="1. Lumen maintenance HB" value="-">
+				<item key="Val" label="1. Lumen maintenance HB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="1_Lumen_maintenance_IPR_HB_general_ECE_SC" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="1_Lumen_maintenance_IPR_LB_general_ECE" label="1. Lumen maintenance LB" value="-">
+				<item key="Val" label="1. Lumen maintenance LB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="1_Lumen_maintenance_IPR_LB_general_ECE_SC" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="2_Lumen_maintenance_IPR_HB_general_ECE" label="2. Lumen maintenance HB" value="-">
+				<item key="Val" label="2. Lumen maintenance HB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="2_Lumen_maintenance_IPR_HB_general_ECE_SC" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="2_Lumen_maintenance_IPR_LB_general_ECE" label="2. Lumen maintenance LB" value="-">
+				<item key="Val" label="2. Lumen maintenance LB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="2_Lumen_maintenance_IPR_LB_general_ECE_SC" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+		</item>
+		<item label="Additional Product Information">
+			<display type="table">
+				<col key="Par" label="PARAMETER" value="@label" width="30%" />
+				<col key="SC" label="SC" />
+				<col key="Descr" label="DESCRIPTION" />
+				<col key="Com" label="COMMENT / INSTRUCTION" width="30%" />
+			</display>
+			<item key="Par" label="Aging" value="1h with Test voltage">
+				<item key="Descr" label="Aging" value="1h with Test voltage" />
+				<item key="SC" label="SC" value="&amp;lt;s&amp;gt;" />
+				<item key="Com" label="Comment / Instruction" value="No bursts allowed" />
+			</item>
+		</item>
+		<item label="Photometry - Conditions">
+			<display type="table">
+				<col key="Par" label="PARAMETER" value="@label" width="30%" />
+				<col key="SC" label="SC" />
+				<col key="Descr" label="DESCRIPTION" />
+				<col key="Com" label="COMMENT / INSTRUCTION" width="30%" />
+			</display>
+			<item key="Photometry_position_IPR" label="Photometry position" value="Normal operating position">
+				<item key="Descr" label="Photometry position" value="Normal operating position" />
+				<item key="SC" label="SC" />
+				<item key="Com" label="Comment / Instruction" value="Horizontal; shield in lower position" />
+			</item>
+		</item>
+		<item label="Photometry - DOT" display="table0001">
+			<item key="Stable_time" label="Stable time" unitRef="9900003" value="2">
+				<item key="Val" label="Stable time" value="2" />
+				<link idref="9900003" key="Unit" />
+				<item key="Stable_time_SC" label="Test voltage HB" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" value="With test voltage (each filament)" />
+			</item>
+			<item key="Test_voltage_HB" label="Test voltage HB" unitRef="9900004" value="12,8">
+				<item key="Val" label="Test voltage HB" value="12,8" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage LB" unitRef="9900004" value="12,8">
+				<item key="Val" label="Test voltage LB" value="12,8" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Power_HB" label="Power HB" unitRef="9900005" value="67">
+				<item key="Val" label="Power HB" value="67" />
+				<link idref="9900005" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="±7%" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Power_LB" label="Power LB" unitRef="9900005" value="60,5">
+				<item key="Val" label="Power LB" value="60,5" />
+				<link idref="9900005" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="±7%" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Luminus_Flux_HB" label="Luminus Flux HB" unitRef="9900006" value="1500">
+				<item key="Val" label="Luminus Flux HB" value="1500" />
+				<link idref="9900006" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="±10%" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Luminus_Flux_LB" label="Luminus Flux LB" unitRef="9900006" value="910">
+				<item key="Val" label="Luminus Flux LB" value="910" />
+				<link idref="9900006" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="±10%" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="1_Lumen_maintenance_IPR_HB_DOT" label="1. Lumen maintenance HB" unitRef="9900007" value="90">
+				<item key="Val" label="1. Lumen maintenance HB" value="90" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" value="Min." />
+				<item key="Tol" label="Tol. " value="Min." />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="1_Lumen_maintenance_IPR_LB_DOT" label="1. Lumen maintenance LB" unitRef="9900007" value="90">
+				<item key="Val" label="1. Lumen maintenance LB" value="90" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" value="Min." />
+				<item key="Tol" label="Tol. " value="Min." />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="2_Lumen_maintenance_IPR_HB_DOT" label="2. Lumen maintenance HB" unitRef="9900007" value="-">
+				<item key="Val" label="2. Lumen maintenance HB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" value="-" />
+				<item key="Tol" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" value="At 113h" />
+			</item>
+			<item key="2_Lumen_maintenance_IPR_LB_DOT" label="2. Lumen maintenance LB" unitRef="9900007" value="-">
+				<item key="Val" label="2. Lumen maintenance LB" value="-" />
+				<link idref="9900007" key="Unit" />
+				<item key="SC" label="SC" value="-" />
+				<item key="Tol" label="Tol. " value="-" />
+				<item key="Com" label="Comment / Instruction" value="At 240h" />
+			</item>
+		</item>
+		<item label="Lifetime Conditions">
+			<display type="table">
+				<col key="Par" label="PARAMETER" value="@label" width="30%" />
+				<col key="SC" label="SC" />
+				<col key="Descr" label="DESCRIPTION" />
+				<col key="Com" label="COMMENT / INSTRUCTION" width="30%" />
+			</display>
+			<item key="Lifetime_IPR" label="Lifetime position" value="Measuring position: normal operating position">
+				<item key="Descr" label="Lifetime position" value="Measuring position: normal operating position" />
+				<item key="SC" label="SC" />
+				<item key="Com" label="Comment / Instruction" value="Horizontal; coil in lower position; 14 V in headlight" />
+			</item>
+		</item>
+		<item label="Lifetime - General / ECE" display="table0001">
+			<item key="Test_voltage_HB" label="Test voltage HB" value="-">
+				<item key="Val" label="Test voltage HB" value="-" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage LB" value="-">
+				<item key="Val" label="Test voltage LB" value="-" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Life_cycle_1_2_A_B3_IPR_general_ECE" label="Life Cycle - 1:2 (A) - B3" value="-">
+				<item key="Val" label="Life Cycle - 1:2 (A) - B3" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Life_cycle_1_2_A_TC_IPR_general_ECE" label="Life Cycle - 1:2 (A) - Tc" value="-">
+				<item key="Val" label="Life Cycle - 1:2 (A) - Tc" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Life_cycle_1_8_B_B3_IPR_general_ECE" label="Life Cycle - 1:8 (B) - B3" value="-">
+				<item key="Val" label="Life Cycle - 1:8 (B) - B3" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Life_cycle_1_8_B_TC_IPR_general_ECE" label="Life Cylce - 1:8 (B) - Tc" value="-">
+				<item key="Val" label="Life Cylce - 1:8 (B) - Tc" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+		</item>
+		<item label="Lifetime - DOT"  display="table0001">
+			<item key="Test_voltage_HB" label="Test voltage HB" value="14">
+				<item key="Val" label="Test voltage HB" value="14" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" value="DC-Voltage" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage LB" value="14">
+				<item key="Val" label="Test voltage LB" value="14" />
+				<link idref="9900004" key="Unit" />
+				<item key="SC" label="SC" />
+				<item key="Tol" label="Tol." value="-" />
+				<item key="Com" label="Comment / Instruction" />
+			</item>
+			<item key="Life_cycle_Cont_Burning_C_B10_IPR_HB_DOT" label="Life cycle - Cont. Burning (C) - B10 - HB" value="-">
+				<item key="Val" label="Life cycle - Cont. Burning (C) - B10 - HB" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Life_cycle_Cont_Burning_C_B10_IPR_LB_DOT" label="Life cycle - Cont. Burning (C) - B10 - HB" value="-">
+				<item key="Val" label="Life cycle - Cont. Burning (C) - B10 - HB" value="-" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Life_cycle_Cont_Burning_C_B50_IPR_HB_DOT" label="Life cycle - Cont. Burning (C) - B50 - HB" value="150">
+				<item key="Val" label="Life cycle - Cont. Burning (C) - B50 - HB" value="150" />
+				<link idref="9900008" key="Unit" />
+				<item key="Com" />
+				<item key="SC" />
+				<item key="Tol" value="Min." />
+			</item>
+			<item key="Life_cycle_Cont_Burning_C_B50_IPR_LB_DOT" label="Life cycle - Cont. Burning (C) - B50 - LB" value="320">
+				<item key="Val" label="Life cycle - Cont. Burning (C) - B50 - LB" value="320" />
+				<link idref="9900008" key="Unit" />
+			</item>
+		</item>
+	</item>
+	<item type="product" id="9900013" label="H4 12V 60/55W Extra Life" display="datasheet">
+		<item key="Commercial_Code_SAP" label="GOC" value="3742960" />
+		<item key="Order_Entry_Code_SAP" label="Ordering entry code" value="12342C2" />
+		<item key="Packaging_Type_SAP" label="Packaging type" value="C2" />
+		<item key="GOC" label="GOC" value="9236 357 18700" />
+		<item type="article_technical_drawing" label="H4_ExtraLife_Dimensions">
+			<item url="Lumileds/H4_12V_60-55W_ExtraLife_Dimensions.jpg" type="Print" />
+		</item>
+		<item type="article_image" label="H4_ExtraLife">
+			<item url="Lumileds/H4_12V_60-55W_ExtraLife.jpg" type="Print" />
+		</item>
+		<item label="Logistic Data">
+			<display type="table">
+				<col label="CHARACTERISTICS" value="@label" width="40%" />
+				<col label="VALUE" value="@value" />
+			</display>
+			<item key="MOQ_per_sales_unit_SAP" label="Min. order qty." value="&lt;p&gt;2&lt;/p&gt;" />
+			<item key="EAN_1_SAP" label="EAN 1" value="8727900374292" />
+			<item key="Quantity_EAN_1_SAP" label="Pack quantity" value="2" />
+			<item key="Length_EAN_1_SAP" label="Length" unitRef="9900010" value="9,1" />
+			<item key="Width_EAN_1_SAP" label="Width" unitRef="9900010" value="4,55" />
+			<item key="Height_EAN_1_SAP" label="Height" unitRef="9900010" value="7,6" />
+			<item key="Gross_Weight_EAN_1_SAP" label="Gross weight" unitRef="9900009" value="46,3" />
+			<item key="EAN_2_SAP" label="EAN 2" value="8727900374321" />
+			<item key="Quantity_per_salesunit_EAN_2_SAP" label="Pack quantity" value="10" />
+			<item key="Length_EAN_2_SAP" label="Length" unitRef="9900010" value="9,1" />
+			<item key="Width_EAN_2_SAP" label="Width" unitRef="9900010" value="45,5" />
+			<item key="Height_EAN_2_SAP" label="Height" unitRef="9900010" value="7,6" />
+			<item key="Gross_Weight_EAN_2_SAP" label="Gross weight" unitRef="9900009" value="463" />
+			<item key="EAN_3_SAP" label="EAN 3" value="8727900374315" />
+			<item key="Quantity_per_salesunit_EAN_3_SAP" label="Pack quantity" value="8727900374315" />
+			<item key="Length_EAN_3_SAP" label="Length" unitRef="9900010" value="9,1" />
+			<item key="Width_EAN_3_SAP" label="Width" unitRef="9900010" value="45,5" />
+			<item key="Height_EAN_3_SAP" label="Height" unitRef="9900010" value="76" />
+			<item key="Gross_Weight_EAN_3_SAP" label="Gross weight" unitRef="9900012" value="4,63" />
+			<item key="EAN_4_SAP" label="EAN 4" value="8727900374567" />
+			<item key="Quantity_per_salesunit_EAN_4_SAP" label="Pack quantity" value="2500" />
+			<item key="Length_EAN_4_SAP" label="Length" unitRef="9900010" value="91" />
+			<item key="Width_EAN_4_SAP" label="Width" unitRef="9900010" value="91" />
+			<item key="Height_EAN_4_SAP" label="Height" unitRef="9900010" value="190" />
+			<item key="Volume_EAN_4_SAP" label="Gross weight" unitRef="9900012" value="115,75" />
+		</item>
+		<item label="Product Description" />
+		<item label="Electrical Characteristics - General / ECE"  display="table0001">
+			<item key="Test_voltage_HB" label="Test voltage - HB" value="&lt;p&gt;11,8&lt;/p&gt;">
+				<item key="Val" label="Test voltage - HB" value="&lt;p&gt;11,8&lt;/p&gt;" />
+				<link idref="9900004" key="Unit" />
+				<item key="Test_voltage_HB_Tol" value="-" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage - LB" value="12,8">
+				<item key="Val" label="Test voltage - LB" value="12,8" />
+				<link idref="9900004" key="Unit" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Power_HB" label="Power - HB" value="72">
+				<item key="Val" label="Power - HB" value="72" />
+				<link idref="9900005" key="Unit" />
+				<item key="Tol" value="max." />
+			</item>
+			<item key="Power_LB" label="Power - LB" value="65">
+				<item key="Val" label="Power - LB" value="65" />
+				<link idref="9900005" key="Unit" />
+				<item key="Tol" value="max." />
+			</item>
+		</item>
+		<item label="Electrical Characteristics - DOT"  display="table0001">
+			<item key="Test_voltage_HB" label="Test voltage - HB" value="13,2">
+				<item key="Val" label="Test voltage - HB" value="13,2" />
+				<link idref="9900004" key="Unit" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Test_voltage_LB" label="Test voltage - LB" value="13,2">
+				<item key="Val" label="Test voltage - LB" value="13,2" />
+				<link idref="9900004" key="Unit" />
+				<item key="Tol" value="-" />
+			</item>
+			<item key="Power_HB" label="Power - HB" value="60">
+				<item key="Val" label="Power - HB" value="60" />
+				<link idref="9900005" key="Unit" />
+				<item key="Tol" value="max." />
+			</item>
+			<item key="Power_LB" label="Power - LB" value="50">
+				<item key="Val" label="Power - LB" value="50" />
+				<link idref="9900005" key="Unit" />
+				<item key="Tol" value="max." />
+			</item>
+		</item>
+		<item label="Photometry - General / ECE"  display="table0001">
+			<item key="Luminous_Flux_HB" label="Luminous flux - HB" value="1500">
+				<item key="Val" label="Luminous flux - HB" value="1500" />
+				<link idref="9900006" key="Unit" />
+				<item key="Tol" value="±10%" />
+			</item>
+			<item key="Luminous_Flux_LB" label="Luminous flux - LB" value="910">
+				<item key="Val" label="Luminous flux - LB" value="910" />
+				<link idref="9900006" key="Unit" />
+				<item key="Tol" value="±10%" />
+			</item>
+			<item key="Lumen_Maintenance_HB" label="Lumen maintenance - HB" value="90">
+				<item key="Val" label="Lumen maintenance - HB" value="90" />
+				<link idref="9900007" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+			<item key="Lumen_Maintenance_LB" label="Lumen maintenance - LB" value="90">
+				<item key="Val" label="Lumen maintenance - LB" value="90" />
+				<link idref="9900007" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+		</item>
+		<item label="Photometry - DOT"  display="table0001">
+			<item key="Luminous_Flux_HB" label="Luminous flux - HB" value="1400">
+				<item key="Val" label="Luminous flux - HB" value="1400" />
+				<link idref="9900006" key="Unit" />
+				<item key="Tol" value="±10%" />
+			</item>
+			<item key="Luminous_Flux_LB" label="Luminous flux - LB" value="810">
+				<item key="Val" label="Luminous flux - LB" value="810" />
+				<link idref="9900006" key="Unit" />
+				<item key="Tol" value="±10%" />
+			</item>
+			<item key="Lumen_Maintenance_HB" label="Lumen maintenance - HB" value="85">
+				<item key="Val" label="Lumen maintenance - HB" value="85" />
+				<link idref="9900007" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+			<item key="Lumen_Maintenance_LB" label="Lumen maintenance - LB" value="85">
+				<item key="Val" label="Lumen maintenance - LB" value="85" />
+				<link idref="9900007" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+		</item>
+		<item label="Lifetime - General / ECE"  display="table0001">
+			<item key="Rated_Lifetime_B3_HB" label="Rated Lifetime - B3 - HB" value="700">
+				<item key="Val" label="Rated Lifetime - B3 - HB" value="700" />
+				<link idref="9900008" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+			<item key="Rated_Lifetime_Tc_HB" label="Rated Lifetime - Tc - HB" value="1400">
+				<item key="Val" label="Rated Lifetime - Tc - HB" value="1400" />
+				<link idref="9900008" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+		</item>
+		<item label="Lifetime - DOT" display="table0001">
+			<item key="Rated_Lifetime_B10_HB" label="Rated Lifetime - B10 HB" value="600">
+				<item key="Val" label="Rated Lifetime - B10 HB" value="600" />
+				<link idref="9900008" key="Unit" />
+				<item key="Tol" value="min." />
+			</item>
+		</item>
+		<item label="Application / Usage / Operation recommendations">
+			<display type="table">
+				<col label="CHARACTERISTICS" value="@key" width="40%" />
+				<col label="VALUE" value="@value" />
+			</display>
+			<item key="Operating_Position" label="Operating position" value="horizontal" />
+		</item>
+	</item>
+</data>

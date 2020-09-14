@@ -1,0 +1,6 @@
+<display type="table"> 
+	<col key="Par" label="PARAMETER" value="@label" width="30%"/>  
+	<col key="SC" label="SC"/>  
+	<col key="Descr" label="DESCRIPTION"/>  
+	<col key="Com" label="COMMENT / INSTRUCTION" width="30%"/> 
+</display>

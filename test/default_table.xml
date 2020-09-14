@@ -1,0 +1,8 @@
+<display type="table" id="table0001">
+	<col key="Par" label="PARAMETER" value="@label" width="30%" />
+	<col key="SC" label="SC" width="10%" />
+	<col key="Val" label="VALUE" width="10%" />
+	<col key="Unit" label="UNIT" width="10%" />
+	<col key="Tol" label="TOL" width="10%" />
+	<col key="Com" label="COMMENT / INSTRUCTION" width="30%" />
+</display>
